@@ -1,0 +1,60 @@
+{
+  "resto": [
+    {
+      "name": "abc Restaurants",
+      "Address": "Ctg",
+      "email": "abc@abc.com",
+      "id": 1
+    },
+    {
+      "name": "efg Restaurants",
+      "Address": "ctg",
+      "email": "efg@efg.com",
+      "id": 2
+    },
+    {
+      "name": "a",
+      "Address": "a",
+      "email": "a",
+      "id": 3
+    },
+    {
+      "name": "b",
+      "Address": "b",
+      "email": "b",
+      "id": 4
+    },
+    {
+      "name": "c",
+      "Address": "c",
+      "email": "c",
+      "id": 5
+    },
+    {
+      "name": "d",
+      "Address": "d",
+      "email": "d",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "e",
+      "password": "e",
+      "email": "e",
+      "id": 1
+    },
+    {
+      "name": "f",
+      "password": "f",
+      "email": "f",
+      "id": 2
+    },
+    {
+      "name": "g",
+      "password": "g",
+      "email": "g",
+      "id": 3
+    }
+  ]
+}
